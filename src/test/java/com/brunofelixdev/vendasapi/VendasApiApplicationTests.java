@@ -8,6 +8,7 @@ class VendasApiApplicationTests {
 
 	@Test
 	void contextLoads() {
+
 	}
 
 }
